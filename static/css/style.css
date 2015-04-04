@@ -217,7 +217,7 @@ ul#navigation li .icon {
 	line-height: 45px;
 	width: 50px;
 	text-align: center;
-	font-size: 27px;
+	font-size: 18px;
 }
 .social-icons {
 	position: absolute;
@@ -1044,8 +1044,11 @@ ul.grid li a, ul.grid li img {
 	color: #000;
 }
 .recentpoststyle li:before {
+	/*
 	content: counter(countposts, decimal);
 	counter-increment: countposts;
+	*/
+	content: "";
 	float: left;
 	z-index: 2;
 	position: relative;
@@ -1054,7 +1057,7 @@ ul.grid li a, ul.grid li img {
 	color: #fff;
 	background: #03cc85;
 	margin: 15px 5px 0px -6px;
-	padding: 0px 10px;
+	padding: 15px;
 	border-radius: 100%;
 }
 li.recent-post-title {
