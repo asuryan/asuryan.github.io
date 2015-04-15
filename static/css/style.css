@@ -897,6 +897,13 @@ ul.grid li .comein i {
     padding-top: 17px;
     border-radius: 50%;
 }
+
+ul.grid li .comein h3{
+    font-size: 14px;
+}
+ul.grid li .comein p{
+    font-size: 12px;
+}
 ul.grid li .comein-bg {
     -khtml-opacity: .70;
     -moz-opacity: .70;
