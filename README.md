@@ -10,7 +10,7 @@ Official Website of Dr Abhilash Suryan
                     <div class="col-sm-2 visible-sm"></div>
                     <div class="col-sm-8 col-md-6">
                         <div class="biothumb">
-                            <img alt="image" src="static/images/asr.jpg" class="img-responsive">
+                            <img alt="image" src="static/images/ASR.jpg" class="img-responsive">
 						</div>
                         <div class="clearfix visible-sm visible-xs"></div>
                         <div class="col-sm-12 col-md-12">
