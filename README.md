@@ -61,6 +61,16 @@ Official Website of Dr Abhilash Suryan
                                 </div>
                                 <div class="clearfix"></div>
                             </li>
+				<li>
+                                <div class="dy marb20">
+                                    <span class="degree">International Engineering Educator</span><span class="year">2016</span>
+                                </div>
+                                <div class="description col-md-offset-1 col-sm-offset-1 col-xs-offset-1 col-lg-offset-1">
+                                    <p class="waht">Engineering Education</p>
+                                    <p class="where">IUCEE/Microsoft/IGIP</p>
+                                </div>
+                                <div class="clearfix"></div>
+                            </li>
                         </ul>
                     </div>
                 </div>
