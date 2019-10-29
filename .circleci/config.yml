@@ -6,4 +6,4 @@ jobs:
     working_directory: ~/repo
     steps:
       - checkout
-      - run: ./vnu-runtime-image/bin/vnu --errors-only *.html
+      - run: vnu --errors-only *.html
